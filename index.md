@@ -3,5 +3,11 @@ My name is Shania Kimbrough. I am an army veteran with over 8 years experience a
 
 ![image](https://user-images.githubusercontent.com/86278910/122862448-01cd5400-d2d6-11eb-96e3-071c4481c7c9.jpg)
 
+
+## About
+
+This page is for my reading notes. My reading notes will just be summaries of my readings put into my own words. 
+
 ## Growth Mindset 
 Growth Mindset is changing the way you think. It is discarding the idea that things are easier for others just because. Growth mindset requires you to work hard and free yourself of  self imposed limitations. It is acknowleding that talents, skills and intelligence are all things that can be accomplished with hard work and dedication. 
+> "The only things that overcome hard luck is hard  work."
