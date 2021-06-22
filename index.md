@@ -14,6 +14,6 @@ In order to keep myself in the Growth mindset I will:
 * Not compare myself to others
 * Ask for help
 * Take criticism in stride
-> "The only thing that overcome hard luck is hard  work."
+> "The only thing that overcomes hard luck is hard  work."
 > Henry Golden
 ![1](https://user-images.githubusercontent.com/86278910/122863820-5b368280-d2d8-11eb-9eb7-170d188f1a1b.PNG)
