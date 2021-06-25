@@ -16,13 +16,7 @@ in order to make text into a header it must start with the hashtag symbol (shift
 
 ![image](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
 
-=======
-  
-Markdown is an easy way to edit text. You can change text size, insert headers, link websites, and much more. All you need to understand about Markdown is the syntax. 
-Think of the syntax as a rule book. For example "the rules" to put something in italics is that it must start and finish with the star symbol (shift +8). Another example
-In order to make test into a header it must start with the hashtag symbol ( shift+3). 
-Markdown is simple to use and there are many cheat sheets out there detailing all the "rules". 
->>>>>>> ba1f18f58c58c73b1e9bffd2f7d72c560b6bec0a
+
 ## Power tools of the Tech world
 
 Text editors are very useful and something most already have experience with. You can use text editor to make webpages, write, and manage text.

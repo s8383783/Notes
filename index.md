@@ -4,7 +4,10 @@ My name is Shania Kimbrough. I am an army veteran with over 8 years experience a
 ![image](https://user-images.githubusercontent.com/86278910/122862448-01cd5400-d2d6-11eb-96e3-071c4481c7c9.jpg)
 
 
-## About
+## Table of Contents 
+
+*[Day 1](https://github.com/s8383783/Notes/day1.md): GitHub and MarkDown*
+*[Day 2](https://github.com/s8383783/Notes/day2.md): Text and Code Editors* 
 
 This page is for my reading notes. My reading notes will just be summaries of my readings put into my own words. 
 
