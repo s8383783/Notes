@@ -17,9 +17,3 @@ in order to make text into a header it must start with the hashtag symbol (shift
 ![image](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
 
 
-## Power tools of the Tech world
-
-Text editors are very useful and something most already have experience with. You can use text editor to make webpages, write, and manage text.
-Text editors make it easier to write both 
-HTML and CSS. 
-![image](https://www.smallbizdaily.com/wp-content/uploads/2019/04/shutterstock_149263820-min.jpg)
