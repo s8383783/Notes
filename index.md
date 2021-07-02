@@ -6,8 +6,8 @@ My name is Shania Kimbrough. I am an army veteran with over 8 years experience a
 
 ## Table of Contents 
 
--[Day 1](https://s8383783.github.io/Notes/day1.html): GitHub and MarkDown
--[Day 2](https://s8383783.github.io/Notes/day2.html): Text and Code Editors
+-[Day 1](https://s8383783.github.io/Notes/day1.html)
+-[Day 2](https://s8383783.github.io/Notes/day2.html)
 -[Day 3](https://s8383783.github.io/Notes/day3.html) 
 -[Day 4](https://s8383783.github.io/Notes/day4.html)
 -[Day 5](https://s8383783.github.io/Notes/day5.html)
