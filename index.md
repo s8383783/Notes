@@ -13,6 +13,7 @@ My name is Shania Kimbrough. I am an army veteran with over 8 years experience a
 -[Day 5](https://s8383783.github.io/Notes/day5.html)
 -[Day 5 cont](https://s8383783.github.io/Notes/day5cont.html)
 [Day 6](https://s8383783.github.io/Notes/day6.html)
+[Day 7](https://s8383783.github.io/Notes/day7.html)
 This page is for my reading notes. My reading notes will just be summaries of my readings put into my own words. 
 
 ## Growth Mindset 
